@@ -1,5 +1,5 @@
 {
-  "name": "node_example",
+  "name": "node_example_fedchishina",
   "version": "1.0.0",
   "description": "description text",
   "main": "index.js",
@@ -8,11 +8,8 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Fedchishina/sf_npm.git"
+    "url": "https://github.com/Fedchishina/sf_npm.git"
   },
-  "author": "Victoria",
-  "license": "ISC",
-  "dependencies": {
-    "bootstrap": "^4.5.2"
-  }
+  "author": "victoria_fedchishina",
+  "license": "ISC"
 }
